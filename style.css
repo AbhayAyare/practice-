@@ -1,0 +1,49 @@
+/* #heading{
+    color: blue;
+    background-color: rgb(165, 118, 118);
+} */
+/* .heading1{
+    color: rgb(101, 188, 30);
+
+} */
+body{
+    background-color: antiquewhite;
+    
+    
+}
+.heading{
+    color: red;
+}
+/* .BOXcontener{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    
+}*/
+/* .BOX{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border: 1px solid rgb(201, 201, 201);
+    margin: 5px;
+    background-color: rgb(63, 219, 167);
+}  */
+
+/* div{
+    height: 30px;
+    width: 50px;
+    background-color: aquamarine;
+    color: white;
+    border: 1px solid black;
+    text-align: center;
+
+} */
+
+.drak{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
